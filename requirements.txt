@@ -1,0 +1,7 @@
+gymnasium[toy-text,classic-control]
+numpy
+matplotlib
+tqdm
+pettingzoo[classic]
+torch
+jupyter
